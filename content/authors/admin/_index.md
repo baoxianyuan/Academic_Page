@@ -3,7 +3,7 @@
 title: Xianyuan Bao
 
 # Name pronunciation (optional)
-name_pronunciation: Xianyuan Bao
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Xianyuan
@@ -30,21 +30,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: social/email
     url: 'mailto:xybao@stu.nxu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/baoxianyuan
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0002-6028-5901
 
 interests:
   - Fluid Mechanics
@@ -52,39 +44,38 @@ interests:
   - Basin Management
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. of Hydraulics and River Dynamics
+    institution: Ningxia University
+    date_start: 2023-09-01
+    date_end: 2026-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Dr Jinyu He](https://tmsl.nxu.edu.cn/info/1575/5857.htm). Presented papers at 1 journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'ResearchGate'
+      url: 'https://www.researchgate.net/profile/Xianyuan-Bao'
+  - area: B.S. of Building Environment and Energy Application Engineering
+    institution: Zhongyuan University of Technology
+    date_start: 2018-09-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - Heat transfer
+        - Engineering thermodynamics
+        - Fluid mechanics
+        - Building environment
   
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: 'https://www.zut.edu.cn/'
+    company_logo: 'https://www.zut.edu.cn/images/logo_hov.png'
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -162,4 +153,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Xianyuan Bao, a master student at Ningxia University.   My research is mainly based on the Yellow River Basin in China, and adopts the theory of system science to reveal the multi-process coupling mechanism and stress effect of water-sediment, ecology-economy in the Yellow River basin system, and determine the core elements and critical thresholds of the steady-state transformation of water-sediment, ecology-economy system in different regions and different development stages.
