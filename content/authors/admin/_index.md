@@ -49,7 +49,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Dr Jinyu He](https://tmsl.nxu.edu.cn/info/1575/5857.htm). Presented papers at 1 journals.
+      Thesis on _Regulation of water-sediment in the Yellow River_. Supervised by [Dr. Jinyu He](https://tmsl.nxu.edu.cn/info/1575/5857.htm). Presented papers at 1 journals.
     button:
       text: 'ResearchGate'
       url: 'https://www.researchgate.net/profile/Xianyuan-Bao'
@@ -64,18 +64,18 @@ education:
         - Fluid mechanics
         - Building environment
   
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: 'https://www.zut.edu.cn/'
-    company_logo: 'https://www.zut.edu.cn/images/logo_hov.png'
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: 'https://www.zut.edu.cn/'
+#     company_logo: 'https://www.zut.edu.cn/images/logo_hov.png'
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
