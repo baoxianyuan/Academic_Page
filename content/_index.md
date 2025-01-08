@@ -52,16 +52,28 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: 
+    id: projects
     content:
-      title: Featured Publications
+      title: Projects
+      text: I enjoy making things. Here are projects that I have worked on over the years.
       filters:
         folders:
-          - publication
-        featured_only: true
+          - project
     design:
       view: article-grid
+      fill_image: false
       columns: 2
+  # - block: collection
+  #   id: 
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     id: papers
     content: 
